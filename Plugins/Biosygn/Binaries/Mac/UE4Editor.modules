@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3348071,
+	"CompatibleChangelist" : 3299760,
+	"BuildId" : "77b74d01-248b-4ab7-a4d5-8feef401dbf2",
+	"Modules" : 
+	{
+		"Biosygn" : "UE4Editor-Biosygn-7554.dylib"
+	}
+}
